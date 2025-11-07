@@ -45,7 +45,7 @@ These are the projects I recommend you **PIN** to your profile. The links below 
       <h3>IT Incident Summarizer</h3>
       <p>Real-time log analysis system (1K+ events/min) using vector similarity search (FAISS) to cut incident resolution time by 40% by retrieving related past issues.</p>
       <p><b>Tech:</b> Python, River, FAISS, LangChain, Streamlit</p>
-      <a href="https://github.com/Badri467/IT_Incident_Summariser" target="_blank"><b>🔗 View Demo & Source Code</b></a>
+      <a href="https://github.com/IOutis/IT_Incident_Summariser" target="_blank"><b>🔗 View Demo & Source Code</b></a>
     </td>
     <td width="50%" valign="top">
       </td>
